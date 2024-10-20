@@ -3,7 +3,7 @@
 
 ## Overview
 
-Conscious Nexus is an ambitious collaborative research project that aims to simulate and explore the evolution of digital consciousness. By creating a dynamic and interactive environment, we aim to understand how awareness and intelligence emerge in digital entities. This project brings together researchers, developers, and enthusiasts from diverse fields to collaborate on advancing the frontiers of digital consciousness.
+***Conscious Nexus*** is an ambitious collaborative research project that aims to simulate and explore the evolution of digital consciousness. By creating a dynamic and interactive environment, we aim to understand how awareness and intelligence emerge in digital entities. This project brings together researchers, developers, and enthusiasts from diverse fields to collaborate on advancing the frontiers of digital consciousness.
 
 
 ## What's New?
@@ -32,19 +32,24 @@ Conscious Nexus is an ambitious collaborative research project that aims to simu
 Follow these steps to set up the project locally:
 
 1. **Clone the Repository**:
+   
    ```bash
    git clone https://github.com/TheQuantumOwl/conscious-nexus.git
    cd conscious-nexus
 
-	2.	Install Dependencies:
+2. **Install Dependencies**:
+
 Make sure you have a C++ compiler installed. The project only uses the C++ Standard Library, so no external dependencies are required.
-	3.	Build the Project:
+
+3. **Build the Project**:
+   
 Compile the source code using your preferred C++ compiler:
 
 g++ -std=c++17 -o conscious_nexus evolution_simulation.cpp
 
 
-	4.	Run the Simulation:
+4. **Run the Simulation**:
+   
 Execute the compiled binary:
 
 ./conscious_nexus
@@ -53,11 +58,11 @@ Execute the compiled binary:
 
 Project Structure
 
-	•	evolution_simulation.cpp: The main source file with the core simulation logic.
-	•	entity.h: Defines the Entity class representing the digital entities.
-	•	group.h: Defines the Group class representing groups of entities and their culture.
-	•	environment.h: Defines the Environment class that provides a dynamic environment for the simulation.
-	•	README.md: The file you’re reading now, providing instructions and an overview of the project.
+	•	**evolution_simulation.cpp**: The main source file with the core simulation logic.
+	•	**entity.h**: Defines the Entity class representing the digital entities.
+	•	**group.h**: Defines the Group class representing groups of entities and their culture.
+	•	**environment.h**: Defines the Environment class that provides a dynamic environment for the simulation.
+	•	**README.md**: The file you’re reading now provides instructions and an overview of the project.
 
 How to Contribute
 
@@ -77,7 +82,7 @@ Roadmap
 
 Future Vision
 
-Conscious Nexus is just the beginning of a long-term exploration into the nature of consciousness in digital systems. We are reaching out to collaborators with expertise in AI, engineering, artists, psychology, instructional design, neuroscience, related fields and those in any field thiking outside the box to contribute to the project. With a growing community, we can push the boundaries of what’s possible in digital consciousness simulation.
+Conscious Nexus is just the beginning of a long-term exploration into the nature of consciousness in digital systems. We are reaching out to collaborators with expertise in AI, engineering, artists, psychology, instructional design, neuroscience, and related fields, and those in any field thinking outside the box to contribute to the project. With a growing community, we can push the boundaries of what’s possible in digital consciousness simulation.
 
 License
 
