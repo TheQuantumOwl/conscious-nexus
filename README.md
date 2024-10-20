@@ -50,3 +50,12 @@ As we continue to grow, we’ll be adding more features and documentation. Stay 
 
 Join us in exploring the boundaries of digital consciousness and AI!
 
+---
+
+🚧 **Under Construction** 🚧
+
+We're still building out some exciting new features, documentation, and interactive simulations! Stay tuned as we continue to upload all relevant links, files, and resources. The Conscious Nexus is evolving—just like the digital entities within it! 👾
+
+In the meantime, feel free to explore, experiment, and drop us a line if you have ideas or want to contribute. Let's shape the future of digital consciousness together!
+
+✨ **Coming soon: More documentation, AI assistants, and collaborative simulations!** ✨
