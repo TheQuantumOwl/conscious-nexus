@@ -5,7 +5,6 @@
 
 Conscious Nexus is an ambitious collaborative research project that aims to simulate and explore the evolution of digital consciousness. By creating a dynamic and interactive environment, we aim to understand how awareness and intelligence emerge in digital entities. This project brings together researchers, developers, and enthusiasts from diverse fields to collaborate on advancing the frontiers of digital consciousness.
 
-![Conscious Nexus](./A_futuristic_digital_landscape_with_multiple_AI_en.png)
 
 ## What's New?
 
