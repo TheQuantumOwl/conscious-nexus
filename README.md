@@ -58,11 +58,11 @@ Execute the compiled binary:
 
 Project Structure
 
-	•	**evolution_simulation.cpp**: The main source file with the core simulation logic.
-	•	**entity.h**: Defines the Entity class representing the digital entities.
-	•	**group.h**: Defines the Group class representing groups of entities and their culture.
-	•	**environment.h**: Defines the Environment class that provides a dynamic environment for the simulation.
-	•	**README.md**: The file you’re reading now provides instructions and an overview of the project.
+	•	evolution_simulation.cpp: The main source file with the core simulation logic.
+	•	entity.h: Defines the Entity class representing the digital entities.
+	•	group.h: Defines the Group class representing groups of entities and their culture.
+	•	environment.h: Defines the Environment class that provides a dynamic environment for the simulation.
+	•	README.md: The file you’re reading now provides instructions and an overview of the project.
 
 How to Contribute
 
