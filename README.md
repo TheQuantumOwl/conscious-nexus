@@ -1,5 +1,15 @@
 The decision to use Python for the Conscious Nexus project is a strategic one, balancing the immediate needs of the project with our long-term goals and skill development. By leveraging Python's strengths in AI, collaboration, and rapid prototyping, we can make significant progress in simulating digital consciousness while keeping the door open for future hardware integration.
 
+## Project Status
+
+This project is a work in progress. Some links and files are still under construction. Please note the following:
+
+- The `LICENSE` and `CONTRIBUTING.md` files are under construction and will be available soon.
+- Additional documentation and advanced features are currently in development.
+
+Feel free to explore the project and contribute to ongoing discussions. We welcome early contributions as we build it out.
+
+
 # Conscious Nexus: Simulating Digital Consciousness Evolution
 
 ## Overview
