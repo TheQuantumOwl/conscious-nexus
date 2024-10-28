@@ -16,7 +16,7 @@ Feel free to explore the project and contribute to ongoing discussions. We welco
 
 Conscious Nexus is an ambitious project that simulates and explores the evolution of digital consciousness. We aim to better understand the dynamics of consciousness, decision-making, and learning in digital environments by fostering interaction and learning among multiple AI entities.
 
-This project unites researchers, developers, and AI enthusiasts to collaborate on creating an ecosystem where digital entities can evolve, adapt, and potentially demonstrate emergent conscious behavior.
+This project aims to unite researchers, developers, and AI enthusiasts to collaborate on creating an ecosystem where digital entities can evolve, adapt, and potentially demonstrate emergent conscious behavior.
 
 ## Key Features
 
